@@ -13,7 +13,7 @@ Prediction: Once trained, the model can make predictions on new data to forecast
 Installation
 To use the Absenteeism Model, follow these installation steps:
 
-### Clone the repository: git clone https://github.com/yourusername/absenteeism-model.git
+### Clone the repository: git clone https://github.com/Bamwesigye-Calvin-Kiiza/absenteeism-model.git
 Install the required dependencies: pip install -r requirements.txt
 Prepare your data: Ensure your data is in a suitable format and includes the necessary features.
 Train the model: Execute the training script or notebook to train the absenteeism model on your data.
